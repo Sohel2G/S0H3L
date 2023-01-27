@@ -3,6 +3,6 @@
 - 👋 Hi, I’m SOHEL RANA
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 Reach me at hello.iguru@gmail.com
+- 📫 Reach me at s0h3l@outlook.com
 
 
